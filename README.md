@@ -1,4 +1,4 @@
-# **Laboratorio 1**
+# **Laboratorio 2**
 
 ## **Entendiendo Maven**
 
